@@ -1,0 +1,6 @@
+create a new port
+add a ship to an port
+add new containers to an port
+ship a cargo.
+
+most of the funtionality is automatic
